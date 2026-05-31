@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdecrypt",
+        "uuid": 18491391,
+        "checksum": "jfvpnn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
